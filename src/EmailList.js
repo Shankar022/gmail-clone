@@ -15,6 +15,7 @@ import InboxIcon from "@material-ui/icons/Inbox";
 import PeopleIcon from "@material-ui/icons/People";
 import LocalOfferIcon from "@material-ui/icons/LocalOffer";
 
+
 function EmailList() {
   return (
     <div className="emailList">
