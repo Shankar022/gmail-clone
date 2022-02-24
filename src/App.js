@@ -2,9 +2,10 @@ import React from "react";
 import "./App.css";
 import Header from "./Header";
 import Sidebar from "./Sidebar";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Mail from "./Mail";
 import EmailList from "./EmailList";
+
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
