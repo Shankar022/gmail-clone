@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import Header from "./Header";
-import Sidebar from "./Sidebar";
-import Mail from "./Mail";
-import EmailList from "./EmailList";
+import Header from "./Components/Header/Header";
+import Sidebar from "./Components/Sidebar/Sidebar";
+import Mail from "./Components/Email/MainContent/Mail";
+import EmailList from "./Components/Email/EmailList";
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
